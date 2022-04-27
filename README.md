@@ -8,4 +8,4 @@
 #### Each notebook explains and uses some features of ML-DL
 
 
-- for using datasets and how to manage data in scikit-learn see the [Data Representation in Scikit-Learn](https://https://github.com/moeinsql/ML_DL_Examples/blob/main/ml_lab_03_01_class_iris_nocode.ipynb)
+- for using datasets and how to manage data in scikit-learn see the [Data Representation in Scikit-Learn](ml_lab_03_01_class_iris_nocode.ipynb)
